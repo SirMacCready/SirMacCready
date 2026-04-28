@@ -1,16 +1,37 @@
-## Hi there 👋
+# SirMacCready
 
-<!--
-**SirMacCready/SirMacCready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lebanese CS student based in France. Building projects, contributing to open-source, and learning constantly.
 
-Here are some ideas to get you started:
+## What I'm Working On
+Right now I'm focused on full-stack web development and contributing to meaningful projects. You'll find a mix of personal projects, experiments, and contributions to open-source initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Use
+- **Languages:** JavaScript, Python
+- **Frontend:** React js, Next.js
+- **Backend:** Node.js, Django, FastAPI
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps:** Docker, GitHub Actions
+- **Other:** Git, Linux, REST APIs
+
+## Why I Code
+I believe good code solves real problems. I'm interested in building applications that matter and learning from developers who are doing the same.
+
+## Currently Learning
+- Advanced backend architecture
+- DevOps and infrastructure
+- Data visualization and analytics
+
+## Open To
+- Collaborating on interesting projects
+- Contributing to open-source
+- Connecting with other developers
+- Building things that have real impact
+
+## Let's Connect
+- **Portfolio:** WIP
+- **LinkedIn:** https://www.linkedin.com/in/paul-charbel/
+- **Email:** paulcharbel@proton.me
+
+---
+
+*Awakening the giant.*
