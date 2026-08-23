@@ -28,7 +28,7 @@ I believe good code solves real problems. I'm interested in building application
 - Building things that have real impact
 
 ## Let's Connect
-- **Portfolio:** WIP
+- **Portfolio:** https://paul-charbel.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/paul-charbel/
 - **Email:** paulcharbel@proton.me
 
