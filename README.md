@@ -8,7 +8,7 @@ Right now I'm focused on full-stack web development and contributing to meaningf
 ## Tech I Use
 - **Languages:** JavaScript, Python
 - **Frontend:** React js, Next.js
-- **Backend:** Node.js, Django, FastAPI
+- **Backend:** Node.js, Typescript, Django, FastAPI
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps:** Docker, GitHub Actions
 - **Other:** Git, Linux, REST APIs
